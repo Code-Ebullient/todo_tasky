@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo_tasky/static/css/main.c0daadc0.css",
+    "main.js": "/todo_tasky/static/js/main.9f8bfa0f.js",
+    "index.html": "/todo_tasky/index.html",
+    "main.c0daadc0.css.map": "/todo_tasky/static/css/main.c0daadc0.css.map",
+    "main.9f8bfa0f.js.map": "/todo_tasky/static/js/main.9f8bfa0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0daadc0.css",
+    "static/js/main.9f8bfa0f.js"
+  ]
+}
